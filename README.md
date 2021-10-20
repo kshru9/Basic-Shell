@@ -21,7 +21,8 @@ The list of commands are:
 
 ## how to run the shell:
 
-Download or clone the repository.
-Then run "make" command in the terminal, doing so starts the shell process.
-Now you can run any of the above given commands in the shell process.
-To exit from the shell process, just type 'Ctrl+C'.
+- `fork` the repo from top right corner of the screen
+- Download/Clone the forked repo
+- Run `make` in the terminal to start the shell process
+- Try out any of the above commands in the shell process
+- Use `Ctrl + C` to exit the shell process
